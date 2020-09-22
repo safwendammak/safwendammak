@@ -3,6 +3,7 @@ I'm a software engineer interested in web development with PHP as a backend lang
 ### 📫 How to reach me:
 - [LinkedIn](https://linkedin.com/in/safwendammak) 👨💼
 - [Website](http://safwen.me) 😏🔗
+![](https://komarev.com/ghpvc/?username=safwendammak)
 <!--
 **safwendammak/safwendammak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
