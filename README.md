@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋, My name is Safwen DAMMAK
+I'm a software engineer interested in web development with PHP as a backend language with Laravel & Symfony frameworks, I'm also obsessed with JavaScript with VueJS framework
+### 📫 How to reach me:
+- [LinkedIn](https://linkedin.com/in/safwendammak) 👨💼
+- [Website](https://safwen.me) 😏🔗
 <!--
 **safwendammak/safwendammak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
