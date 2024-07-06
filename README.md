@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/56032324?v=4"  />
 
 ###
 
@@ -41,9 +41,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/safwendammak/safwendammak/output/snake.svg" alt="Snake animation" />
 
 ###
